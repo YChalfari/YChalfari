@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures, NextJS, TypeScript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **chalfari@gmail.com**
 
